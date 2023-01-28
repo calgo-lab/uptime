@@ -1,31 +1,42 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: calgo-lab # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
+assignees:
+  - se-jaeger
+  - itrajanovska
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: calgo-lab.de
+    url: https://calgo-lab.de
+  - name: green-db.calgo-lab.de
+    url: https://green-db.calgo-lab.de
+  - name: product-classification.demo.calgo-lab.de
+    url: https://product-classification.demo.calgo-lab.de
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Cognitive Algorithms Lab Status & Uptime Monitoring"
+  introMessage: This status page lists all services provided, hosted, and/or managed by the Cognitive Algorithms Lab team and checks their uptime every 5 minutes.
+  cname: status.calgo-lab.de
+  baseUrl: /
+  theme: dark
+  name: Cognitive Algorithms Lab Status
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+    - title: Website
+      href: https://calgo-lab.de
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "0 0 * * *"
+
+commitMessages:
+  commitAuthorName: "calgo-lab (Bot)"
+  commitAuthorEmail: "no-reply@calgo-lab.de"
