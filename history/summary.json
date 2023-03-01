@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2678,
-    "timeDay": 2362,
-    "timeWeek": 2055,
-    "timeMonth": 2678,
-    "timeYear": 2678,
+    "time": 2667,
+    "timeDay": 2274,
+    "timeWeek": 2051,
+    "timeMonth": 2733,
+    "timeYear": 2667,
     "dailyMinutesDown": {
       "2023-02-01": 15
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/green-db.calgo-lab.de.ico",
     "slug": "green-db-calgo-lab-de",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 1069,
-    "timeDay": 1392,
-    "timeWeek": 950,
-    "timeMonth": 1069,
-    "timeYear": 1069,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.76%",
+    "time": 1078,
+    "timeDay": 1375,
+    "timeWeek": 988,
+    "timeMonth": 1072,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2023-01-28": 111
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1472,
-    "timeDay": 982,
-    "timeWeek": 1122,
-    "timeMonth": 1472,
-    "timeYear": 1472,
+    "time": 1480,
+    "timeDay": 1766,
+    "timeWeek": 1168,
+    "timeMonth": 1504,
+    "timeYear": 1480,
     "dailyMinutesDown": {
       "2023-02-01": 15
     }
