@@ -4,11 +4,11 @@
     "url": "https://calgo-lab.de",
     "icon": "https://icons.duckduckgo.com/ip3/calgo-lab.de.ico",
     "slug": "calgo-lab-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.89%",
     "time": 2563,
     "timeDay": 2345,
@@ -16,6 +16,7 @@
     "timeMonth": 2465,
     "timeYear": 2563,
     "dailyMinutesDown": {
+      "2023-04-01": 1,
       "2023-03-27": 16,
       "2023-03-21": 29,
       "2023-03-20": 21,
@@ -28,10 +29,10 @@
     "url": "https://green-db.calgo-lab.de",
     "icon": "https://icons.duckduckgo.com/ip3/green-db.calgo-lab.de.ico",
     "slug": "green-db-calgo-lab-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.84%",
     "time": 1315,
@@ -40,6 +41,7 @@
     "timeMonth": 1539,
     "timeYear": 1315,
     "dailyMinutesDown": {
+      "2023-04-01": 1,
       "2023-03-27": 16,
       "2023-03-07": 18,
       "2023-01-28": 111
@@ -50,9 +52,9 @@
     "url": "https://product-classification.demo.calgo-lab.de",
     "icon": "https://icons.duckduckgo.com/ip3/product-classification.demo.calgo-lab.de.ico",
     "slug": "product-classification-demo-calgo-lab-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -62,6 +64,7 @@
     "timeMonth": 1235,
     "timeYear": 1365,
     "dailyMinutesDown": {
+      "2023-04-01": 0,
       "2023-02-01": 15
     }
   }
