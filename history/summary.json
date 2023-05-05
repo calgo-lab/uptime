@@ -54,9 +54,9 @@
     "url": "https://product-classification.demo.calgo-lab.de",
     "icon": "https://icons.duckduckgo.com/ip3/product-classification.demo.calgo-lab.de.ico",
     "slug": "product-classification-demo-calgo-lab-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.95%",
@@ -66,6 +66,7 @@
     "timeMonth": 1209,
     "timeYear": 1297,
     "dailyMinutesDown": {
+      "2023-05-05": 0,
       "2023-04-07": 54,
       "2023-02-01": 15
     }
