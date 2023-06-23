@@ -1,7 +1,7 @@
 url: https://calgo-lab.de
-status: up
-code: 200
-responseTime: 2290
-lastUpdated: 2023-06-22T23:15:02.845Z
+status: down
+code: 503
+responseTime: 5648
+lastUpdated: 2023-06-23T20:39:23.210Z
 startTime: Sat Jan 28 2023 10:51:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
