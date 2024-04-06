@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/calgo-lab.de.ico",
     "slug": "calgo-lab-de",
     "status": "up",
-    "uptime": "93.43%",
+    "uptime": "93.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.93%",
+    "uptimeMonth": "59.21%",
     "uptimeYear": "92.23%",
     "time": 2450,
-    "timeDay": 1976,
-    "timeWeek": 2050,
-    "timeMonth": 1989,
-    "timeYear": 2436,
+    "timeDay": 2159,
+    "timeWeek": 2149,
+    "timeMonth": 1998,
+    "timeYear": 2435,
     "dailyMinutesDown": {
       "2024-03-18": 647,
       "2024-03-17": 1440,
@@ -59,8 +59,7 @@
       "2023-09-15": 19,
       "2023-09-13": 137,
       "2023-05-23": 107,
-      "2023-04-30": 20,
-      "2023-04-07": 55
+      "2023-04-30": 20
     }
   },
   {
@@ -74,19 +73,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1240,
-    "timeDay": 790,
-    "timeWeek": 1083,
-    "timeMonth": 1131,
-    "timeYear": 1232,
+    "time": 1241,
+    "timeDay": 1527,
+    "timeWeek": 1191,
+    "timeMonth": 1153,
+    "timeYear": 1233,
     "dailyMinutesDown": {
       "2023-12-27": 19,
       "2023-12-08": 15,
       "2023-12-04": 17,
       "2023-10-25": 33,
       "2023-09-06": 18,
-      "2023-04-19": 16,
-      "2023-04-07": 54
+      "2023-04-19": 16
     }
   },
   {
@@ -95,18 +93,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/product-classification.demo.calgo-lab.de.ico",
     "slug": "product-classification-demo-calgo-lab-de",
     "status": "down",
-    "uptime": "89.59%",
+    "uptime": "89.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.67%",
+    "uptimeYear": "87.40%",
     "time": 1250,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2024-04-05": 63,
+      "2024-04-06": 61,
+      "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
@@ -160,8 +159,7 @@
       "2023-10-25": 32,
       "2023-09-13": 136,
       "2023-05-13": 37,
-      "2023-05-05": 15,
-      "2023-04-07": 54
+      "2023-05-05": 15
     }
   }
 ]
