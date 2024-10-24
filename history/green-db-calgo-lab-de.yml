@@ -1,7 +1,7 @@
 url: https://green-db.calgo-lab.de
-status: up
-code: 200
-responseTime: 809
-lastUpdated: 2024-10-24T22:51:51.371Z
+status: down
+code: 502
+responseTime: 802
+lastUpdated: 2024-10-24T23:08:30.201Z
 startTime: 2023-01-28T10:51:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
