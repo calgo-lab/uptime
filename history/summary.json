@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/calgo-lab.de.ico",
     "slug": "calgo-lab-de",
     "status": "up",
-    "uptime": "95.27%",
-    "uptimeDay": "97.98%",
+    "uptime": "95.28%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "92.11%",
-    "time": 2142,
-    "timeDay": 1225,
-    "timeWeek": 895,
-    "timeMonth": 900,
-    "timeYear": 1937,
+    "time": 2139,
+    "timeDay": 1344,
+    "timeWeek": 984,
+    "timeMonth": 902,
+    "timeYear": 1934,
     "dailyMinutesDown": {
       "2024-10-22": 29,
       "2024-08-15": 18,
@@ -58,8 +58,7 @@
       "2024-01-08": 16,
       "2024-01-04": 17,
       "2023-12-27": 19,
-      "2023-11-03": 15,
-      "2023-10-25": 33
+      "2023-11-03": 15
     }
   },
   {
@@ -74,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
     "time": 1177,
-    "timeDay": 1019,
-    "timeWeek": 957,
-    "timeMonth": 1212,
-    "timeYear": 1105,
+    "timeDay": 995,
+    "timeWeek": 985,
+    "timeMonth": 1201,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2024-09-16": 455,
       "2024-09-15": 1440,
@@ -89,8 +88,7 @@
       "2024-04-09": 16,
       "2023-12-27": 19,
       "2023-12-08": 15,
-      "2023-12-04": 17,
-      "2023-10-25": 33
+      "2023-12-04": 17
     }
   },
   {
@@ -99,15 +97,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/product-classification.demo.calgo-lab.de.ico",
     "slug": "product-classification-demo-calgo-lab-de",
     "status": "up",
-    "uptime": "85.35%",
+    "uptime": "85.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "74.62%",
-    "time": 1217,
-    "timeDay": 1512,
-    "timeWeek": 1129,
-    "timeMonth": 1210,
+    "time": 1219,
+    "timeDay": 1600,
+    "timeWeek": 1240,
+    "timeMonth": 1206,
     "timeYear": 1170,
     "dailyMinutesDown": {
       "2024-09-16": 464,
@@ -212,8 +210,7 @@
       "2024-02-08": 19,
       "2023-12-08": 345,
       "2023-12-04": 15,
-      "2023-11-18": 17,
-      "2023-10-25": 32
+      "2023-11-18": 17
     }
   }
 ]
