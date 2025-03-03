@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.03%",
-    "time": 1545,
-    "timeDay": 392,
-    "timeWeek": 334,
-    "timeMonth": 358,
-    "timeYear": 1321,
+    "uptimeYear": "95.30%",
+    "time": 1540,
+    "timeDay": 372,
+    "timeWeek": 323,
+    "timeMonth": 359,
+    "timeYear": 1318,
     "dailyMinutesDown": {
       "2024-12-06": 23,
       "2024-12-05": 35,
@@ -42,8 +42,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
-      "2024-03-04": 1440,
-      "2024-03-03": 1440
+      "2024-03-04": 1440
     }
   },
   {
@@ -58,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 1132,
-    "timeDay": 1033,
-    "timeWeek": 821,
-    "timeMonth": 887,
-    "timeYear": 1084,
+    "timeDay": 791,
+    "timeWeek": 803,
+    "timeMonth": 882,
+    "timeYear": 1085,
     "dailyMinutesDown": {
       "2025-01-31": 17,
       "2024-12-04": 93,
@@ -83,16 +82,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/product-classification.demo.calgo-lab.de.ico",
     "slug": "product-classification-demo-calgo-lab-de",
     "status": "up",
-    "uptime": "87.84%",
+    "uptime": "87.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.58%",
+    "uptimeYear": "77.85%",
     "time": 1296,
-    "timeDay": 1100,
-    "timeWeek": 1057,
-    "timeMonth": 1191,
-    "timeYear": 1346,
+    "timeDay": 1059,
+    "timeWeek": 1062,
+    "timeMonth": 1190,
+    "timeYear": 1345,
     "dailyMinutesDown": {
       "2024-11-29": 18,
       "2024-11-20": 33,
@@ -180,8 +179,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
-      "2024-03-04": 1440,
-      "2024-03-03": 1440
+      "2024-03-04": 1440
     }
   }
 ]
