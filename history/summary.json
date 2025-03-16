@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.84%",
+    "uptimeYear": "98.87%",
     "time": 1503,
     "timeDay": 309,
     "timeWeek": 248,
@@ -29,8 +29,7 @@
       "2024-04-10": 17,
       "2024-04-09": 16,
       "2024-03-18": 647,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -40,17 +39,16 @@
     "slug": "green-db-calgo-lab-de",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.13%",
     "time": 1101,
     "timeDay": 988,
     "timeWeek": 874,
     "timeMonth": 909,
     "timeYear": 1071,
     "dailyMinutesDown": {
-      "2025-03-15": 9,
       "2025-01-31": 17,
       "2024-12-04": 93,
       "2024-11-14": 17,
@@ -75,7 +73,7 @@
     "uptimeDay": "96.80%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "81.38%",
+    "uptimeYear": "81.41%",
     "time": 1299,
     "timeDay": 1166,
     "timeWeek": 1116,
@@ -157,8 +155,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   }
 ]
