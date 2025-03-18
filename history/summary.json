@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/calgo-lab.de.ico",
     "slug": "calgo-lab-de",
     "status": "up",
-    "uptime": "96.12%",
+    "uptime": "96.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.14%",
-    "time": 1500,
-    "timeDay": 560,
-    "timeWeek": 302,
-    "timeMonth": 371,
-    "timeYear": 1283,
+    "uptimeYear": "99.41%",
+    "time": 1495,
+    "timeDay": 462,
+    "timeWeek": 346,
+    "timeMonth": 379,
+    "timeYear": 1281,
     "dailyMinutesDown": {
       "2024-12-06": 23,
       "2024-12-05": 35,
@@ -27,8 +27,7 @@
       "2024-07-20": 167,
       "2024-07-09": 18,
       "2024-04-10": 17,
-      "2024-04-09": 16,
-      "2024-03-18": 647
+      "2024-04-09": 16
     }
   },
   {
@@ -42,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
-    "time": 1101,
-    "timeDay": 1190,
-    "timeWeek": 924,
+    "time": 1100,
+    "timeDay": 1046,
+    "timeWeek": 965,
     "timeMonth": 930,
-    "timeYear": 1072,
+    "timeYear": 1073,
     "dailyMinutesDown": {
       "2025-01-31": 17,
       "2024-12-04": 93,
@@ -68,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/product-classification.demo.calgo-lab.de.ico",
     "slug": "product-classification-demo-calgo-lab-de",
     "status": "up",
-    "uptime": "88.07%",
+    "uptime": "88.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "81.68%",
+    "uptimeYear": "81.95%",
     "time": 1298,
-    "timeDay": 1339,
-    "timeWeek": 1132,
-    "timeMonth": 1209,
-    "timeYear": 1336,
+    "timeDay": 800,
+    "timeWeek": 1154,
+    "timeMonth": 1190,
+    "timeYear": 1335,
     "dailyMinutesDown": {
       "2025-03-15": 46,
       "2025-03-10": 16,
@@ -152,8 +151,7 @@
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
-      "2024-03-19": 1440,
-      "2024-03-18": 1440
+      "2024-03-19": 1440
     }
   }
 ]
