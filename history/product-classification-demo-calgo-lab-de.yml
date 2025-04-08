@@ -1,7 +1,7 @@
 url: https://product-classification.demo.calgo-lab.de
-status: down
-code: 503
-responseTime: 1987
-lastUpdated: 2025-04-07T23:17:09.892Z
+status: up
+code: 200
+responseTime: 2111
+lastUpdated: 2025-04-08T09:27:37.029Z
 startTime: 2023-01-28T10:51:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
