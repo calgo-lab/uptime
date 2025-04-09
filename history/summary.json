@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/calgo-lab.de.ico",
     "slug": "calgo-lab-de",
     "status": "up",
-    "uptime": "96.23%",
+    "uptime": "96.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 1429,
-    "timeDay": 742,
-    "timeWeek": 402,
-    "timeMonth": 343,
-    "timeYear": 1194,
+    "time": 1427,
+    "timeDay": 634,
+    "timeWeek": 440,
+    "timeMonth": 353,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2024-12-06": 23,
       "2024-12-05": 35,
@@ -26,8 +26,7 @@
       "2024-07-21": 1440,
       "2024-07-20": 167,
       "2024-07-09": 18,
-      "2024-04-10": 17,
-      "2024-04-09": 16
+      "2024-04-10": 17
     }
   },
   {
@@ -41,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.12%",
-    "time": 1099,
-    "timeDay": 1441,
-    "timeWeek": 1093,
-    "timeMonth": 1001,
-    "timeYear": 1072,
+    "time": 1098,
+    "timeDay": 739,
+    "timeWeek": 1071,
+    "timeMonth": 986,
+    "timeYear": 1071,
     "dailyMinutesDown": {
       "2025-03-19": 21,
       "2025-01-31": 17,
@@ -58,8 +57,7 @@
       "2024-09-13": 919,
       "2024-07-09": 18,
       "2024-06-06": 18,
-      "2024-04-10": 17,
-      "2024-04-09": 16
+      "2024-04-10": 17
     }
   },
   {
@@ -68,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/product-classification.demo.calgo-lab.de.ico",
     "slug": "product-classification-demo-calgo-lab-de",
     "status": "up",
-    "uptime": "86.66%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "uptime": "86.67%",
+    "uptimeDay": "67.28%",
+    "uptimeWeek": "9.61%",
     "uptimeMonth": "54.09%",
-    "uptimeYear": "83.98%",
+    "uptimeYear": "84.17%",
     "time": 1306,
-    "timeDay": 2049,
-    "timeWeek": 1422,
-    "timeMonth": 1223,
-    "timeYear": 1331,
+    "timeDay": 1672,
+    "timeWeek": 1442,
+    "timeMonth": 1222,
+    "timeYear": 1330,
     "dailyMinutesDown": {
       "2025-04-08": 568,
       "2025-04-07": 1440,
@@ -145,8 +143,7 @@
       "2024-04-13": 1440,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
-      "2024-04-10": 1440,
-      "2024-04-09": 1440
+      "2024-04-10": 1440
     }
   }
 ]
